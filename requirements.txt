@@ -1,0 +1,10 @@
+numpy
+opencv-python
+Pillow
+scikit-learn
+torch
+transformers
+python-dotenv
+requests
+tqdm
+scipy
