@@ -278,12 +278,6 @@ OCR training on IAM dataset did not generalize well to real student answers.
 
 Current focus is on improving the grading/evaluation module.
 
-🤝 Contributors
-
-Nalini — Core development
-
-Team member — OCR module experimentation/research
-
 📜 License
 
 This project is licensed under the MIT License.
